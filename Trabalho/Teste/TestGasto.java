@@ -1,0 +1,6 @@
+package Teste;
+
+public enum TestGasto
+{
+	HABILITACAO, ENTRETERIMENTO, ALIMENTACAO, TRANSPORTE;
+}
